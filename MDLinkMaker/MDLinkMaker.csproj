@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>linkmaker.ico</ApplicationIcon>
+    <StartupObject>MDLinkMaker.Program</StartupObject>
+    <Authors>xcy7e</Authors>
+    <Copyright>2021 xcy7e</Copyright>
+    <Company>https://www.xcy7e.de/</Company>
+    <PackageProjectUrl>https://www.xcy7e.de/</PackageProjectUrl>
+    <Description>Erstellt einen Markdown Link</Description>
+  </PropertyGroup>
+
+</Project>
